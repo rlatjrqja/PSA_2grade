@@ -1,0 +1,14 @@
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\bin\Debug\net6.0\week05.exe
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\bin\Debug\net6.0\week05.deps.json
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\bin\Debug\net6.0\week05.runtimeconfig.json
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\bin\Debug\net6.0\week05.dll
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\bin\Debug\net6.0\week05.pdb
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\week05.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\week05.AssemblyInfoInputs.cache
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\week05.AssemblyInfo.cs
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\week05.csproj.CoreCompileInputs.cache
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\week05.dll
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\refint\week05.dll
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\week05.pdb
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\week05.genruntimeconfig.cache
+C:\MyFiles\yuhan\PSA\PSA_2grade\week05\week05\obj\Debug\net6.0\ref\week05.dll
