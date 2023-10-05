@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\김석범\\.nuget\\packages\\": {}
+    "C:\\Users\\rlatj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyFiles\\yuhan\\PSA\\PSA_2grade\\week05\\week05\\week05.csproj",
+      "projectUniqueName": "C:\\YUHAN\\PSA_2grade\\week05\\week05\\week05.csproj",
       "projectName": "week05",
-      "projectPath": "C:\\MyFiles\\yuhan\\PSA\\PSA_2grade\\week05\\week05\\week05.csproj",
-      "packagesPath": "C:\\Users\\김석범\\.nuget\\packages\\",
-      "outputPath": "C:\\MyFiles\\yuhan\\PSA\\PSA_2grade\\week05\\week05\\obj\\",
+      "projectPath": "C:\\YUHAN\\PSA_2grade\\week05\\week05\\week05.csproj",
+      "packagesPath": "C:\\Users\\rlatj\\.nuget\\packages\\",
+      "outputPath": "C:\\YUHAN\\PSA_2grade\\week05\\week05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\김석범\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rlatj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

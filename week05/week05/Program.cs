@@ -1,17 +1,35 @@
-﻿String path = "C:\\MyFiles\\yuhan\\PSA\\PSA_2grade\\week05\\";
+﻿
+Console.Write("경로를 지정하세요 : ");
+String dir = Console.ReadLine();
+
+//string dir = Environment.CurrentDirectory;
+//week05.exe의 위치(실행위치)를 가져온다???
+
+String input;
+String output;
 
 Console.Write("파일명 : ");
-String fileName = Console.ReadLine();
+String filename = Console.ReadLine();
 
-String TargetFile = "ReadTestFile.txt";
-StreamReader sr1 = new StreamReader(path + TargetFile);
+StreamWriter sw = new StreamWriter(dir + "\\"+ filename,true);
+Console.WriteLine("\n========입력모드를 종료하려면 exit를 입력하세요========");
 
-while (sr1.EndOfStream == false)
+while(true)
 {
-    string s = sr1.Read().ToString();
-    Console.Write(s);
-}
+    input = Console.ReadLine();
+    if (input == "exit") break;
 
-StreamWriter sw1 = new StreamWriter(path + fileName);
-sw1.WriteLine(sr1);
-sw1.Close();
+    sw.WriteLine(input);
+}
+sw.Close();
+
+Console.WriteLine($"{dir + "\\" + filename}에 작성되었습니다.\n");
+
+StreamReader sr = new StreamReader(dir + "\\" + filename);
+while (true)
+{
+    output = sr.ReadLine();
+    Console.WriteLine(output);
+    if(output == null) break;
+}
+sr.Close();
