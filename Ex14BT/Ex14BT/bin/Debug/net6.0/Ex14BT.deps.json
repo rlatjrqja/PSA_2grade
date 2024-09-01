@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex14BT/1.0.0": {
+        "dependencies": {
+          "TreeLib": "1.0.0"
+        },
+        "runtime": {
+          "Ex14BT.dll": {}
+        }
+      },
+      "TreeLib/1.0.0": {
+        "runtime": {
+          "TreeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex14BT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

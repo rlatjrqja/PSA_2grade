@@ -1,0 +1,14 @@
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\bin\Debug\net6.0\BinaryTreeArray.exe
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\bin\Debug\net6.0\BinaryTreeArray.deps.json
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\bin\Debug\net6.0\BinaryTreeArray.runtimeconfig.json
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\bin\Debug\net6.0\BinaryTreeArray.dll
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\bin\Debug\net6.0\BinaryTreeArray.pdb
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\BinaryTreeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\BinaryTreeArray.AssemblyInfoInputs.cache
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\BinaryTreeArray.AssemblyInfo.cs
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\BinaryTreeArray.csproj.CoreCompileInputs.cache
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\BinaryTreeArray.dll
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\refint\BinaryTreeArray.dll
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\BinaryTreeArray.pdb
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\BinaryTreeArray.genruntimeconfig.cache
+C:\MyFiles\yuhan\PSA\PSA_2grade\BinaryTreeArray\BinaryTreeArray\obj\Debug\net6.0\ref\BinaryTreeArray.dll
