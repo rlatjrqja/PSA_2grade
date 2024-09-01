@@ -1,0 +1,12 @@
+D:\202034007\Sample13\SimpleGrapeLib\bin\Debug\net6.0\SimpleGrapeLib.deps.json
+D:\202034007\Sample13\SimpleGrapeLib\bin\Debug\net6.0\SimpleGrapeLib.dll
+D:\202034007\Sample13\SimpleGrapeLib\bin\Debug\net6.0\SimpleGrapeLib.pdb
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\SimpleGrapeLib.csproj.AssemblyReference.cache
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\SimpleGrapeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\SimpleGrapeLib.AssemblyInfoInputs.cache
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\SimpleGrapeLib.AssemblyInfo.cs
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\SimpleGrapeLib.csproj.CoreCompileInputs.cache
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\SimpleGrapeLib.dll
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\refint\SimpleGrapeLib.dll
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\SimpleGrapeLib.pdb
+D:\202034007\Sample13\SimpleGrapeLib\obj\Debug\net6.0\ref\SimpleGrapeLib.dll

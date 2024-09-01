@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SimpleTreeLib_PM/1.0.0": {
+        "runtime": {
+          "SimpleTreeLib_PM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleTreeLib_PM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

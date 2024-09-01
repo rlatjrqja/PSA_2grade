@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TreeTEST/1.0.0": {
+        "dependencies": {
+          "SimpleGrapeLib": "1.0.0",
+          "SimpleTreeLib_PM": "1.0.0"
+        },
+        "runtime": {
+          "TreeTEST.dll": {}
+        }
+      },
+      "SimpleGrapeLib/1.0.0": {
+        "runtime": {
+          "SimpleGrapeLib.dll": {}
+        }
+      },
+      "SimpleTreeLib_PM/1.0.0": {
+        "runtime": {
+          "SimpleTreeLib_PM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TreeTEST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleGrapeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleTreeLib_PM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
